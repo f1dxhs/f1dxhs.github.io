@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hansong Xiao"
+title                    : "Hansong Xiao/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hansong Xiao"
-description              : &description "personal description"
+description              : &description "looking for phd"
 url                      : https://f1dxhs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "f1dxhs/f1dxhs.github.io"
