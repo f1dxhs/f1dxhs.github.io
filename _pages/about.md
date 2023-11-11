@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Hansong Xiao. I earned my master's degree in Applied Computational Science and Engineering from Imperial College and a Bachelor’s degree in Industrial Engineering from both the University of Pittsburgh and Sichuan University. My primary research interests include Data-Efficient AI, human-computer interaction, AutoDS, and deep learning. I am currently seeking a PhD position in computer science/data science. For my CV, please refer to [CV](https://hansongxiao.github.io/cv/).
+Hi, I am Hansong Xiao. I earned my master's degree in Applied Computational Science and Engineering from Imperial College and a Bachelor’s degree in Industrial Engineering from both the University of Pittsburgh and Sichuan University. My primary research interests include Data-Efficient AI, human-computer interaction, AutoDS, and deep learning. I am currently seeking a PhD position in computer science/data science. For my CV, please refer to [CV](https://f1dxhs.github.io/assets/CV).
 
 
 <!-- A data-driven personal website
