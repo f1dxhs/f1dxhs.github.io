@@ -7,8 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
+## Personal Interest
 
-
+* Swimming, Formula one, Video Games
 
 <!-- ## Locations of key files/directories
 
