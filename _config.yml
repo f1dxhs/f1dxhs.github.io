@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hansong Xiao/Personal Homepage"
+title                    : "Hansong Xiao"
 title_separator          : "-"
 name                     : &name "Hansong Xiao"
 description              : &description "looking for phd"
